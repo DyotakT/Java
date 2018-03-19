@@ -4,6 +4,7 @@ public class Spiral {
 	
 	static int size;
 	static int number=1;
+	static int x=0;
 
 
 	public static void main(String[] args) {
