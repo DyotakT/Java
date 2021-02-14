@@ -78,7 +78,7 @@ public class Spiral {
 			for(int h=0;h<array.length;h++)
 			{
 				System.out.print(array[g][h]);
-				System.out.print("       ");
+				System.out.print("\t");
 			}
 			System.out.print("\n\n\n\n");
 		}
